@@ -25,7 +25,7 @@ img {
   min-height: auto; }
 
 .site-logo {
-  background: url(../img/site-logo.png) 50% no-repeat;
+  background: url(../img/code.png) 50% no-repeat;
   background-size: cover;
   height: 120px;
   width: 120px;
@@ -78,7 +78,7 @@ img {
 .welcome-card > .mdl-card__title {
   color: #fff;
   height: 290px;
-  background: url("../img/cover.jpg") center/cover; }
+  background: url("../img/vscode-background.webp") center/cover; }
 
 .event-card {
   background: #3E4EB8; }
